@@ -1,0 +1,26 @@
+[
+    {
+        "title":"What's the Weather?",
+        "imgSrc":"projects/project.png",
+        "description": "This website shows the real time weather of all the countries and states. Built using HTML, CSS, JavaScript and Open weather API.",
+        "skills": ["HTML","CSS","JavaScript"],
+        "demo":"https://whats-the-weather.pages.dev/",
+        "source":"https://github.com/ApoorvaSunkad/WeatherApp"
+    },
+    {
+        "title":"Attendance Tracking Using Face Recognition",
+        "imgSrc":"projects/project.png",
+        "description": "In this project we will track the attendance of the people by detecting the faces using a webcam and record the attendance live in an excel sheet.",
+        "skills": ["Python","ML Algorithms"],
+        "demo":"https://github.com/ApoorvaSunkad/Attendance-Tracking-Using-Face-Recognition",
+        "source":"https://github.com/ApoorvaSunkad/Attendance-Tracking-Using-Face-Recognition"
+    },
+    {
+        "title":"Rock, Paper, Scissors",
+        "imgSrc":"projects/project.png",
+        "description": "Rock, paper, scissors is an intransitive hand game, usually played between two people. Built using HTML, CSS, JavaScript.",
+        "skills": ["HTML","CSS","JavaScript"],
+        "demo":"https://rock-paper-scissors-3ms.pages.dev/",
+        "source":"https://github.com/ApoorvaSunkad/Rock-Paper-Scissors"
+    }
+]

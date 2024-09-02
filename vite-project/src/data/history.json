@@ -1,0 +1,29 @@
+[
+    {
+        "role":"Assistant System Engineer",
+        "Organisation":" Tata Consultancy Serivces",
+        "startDate":"Oct, 2021",
+        "endDate": "June, 2023",
+        "experiences":["Addressed 600+ client tickets related to SAP software, learning SDLC and Agile methodologies"
+        ],
+        "imgSrc":"history/tcs.png"
+    },
+    {
+        "role":"Machine Learning Intern",
+        "Organisation":" Knowledge Solutions India",
+        "startDate":"Sept, 2020",
+        "endDate": "Nov, 2020",
+        "experiences":["Worked on a project to closely predict the insurance cost based on various physical features of the dataset using different ML algorithms like Multiple linear Regressor, Random Forest Regressor."
+        ],
+        "imgSrc":"history/ksl.jpg"
+    },
+    {
+        "role":"Web Development Intern",
+        "Organisation":" Internship Studio",
+        "startDate":"July, 2020",
+        "endDate": "Sept, 2020",
+        "experiences":["Hands on experience on web development technologies such as HTML5, CSS and JavaScript.The task was to build a simple portfolio using HTML5, CSS and JavaScript."
+        ],
+        "imgSrc":"history/internship studio.png"
+    }
+]

@@ -1,0 +1,50 @@
+[
+    {
+        "title":"HTML",
+        "imageSrc":"skills/html.png"
+    },
+    {
+        "title":"CSS",
+        "imageSrc":"skills/css.png"
+    },
+    {
+        "title":"JavaScript",
+        "imageSrc":"skills/javascript.png"
+    },
+    {
+        "title":"React.js",
+        "imageSrc":"skills/react.png"
+    },
+    {
+        "title":"Bootstrap",
+        "imageSrc":"skills/bootstrap.png"
+    },
+    {
+        "title":"C++",
+        "imageSrc":"skills/cpp.png"
+    },
+    {
+        "title":"Python",
+        "imageSrc":"skills/python.png"
+    },
+    {
+        "title":"Java",
+        "imageSrc":"skills/java.png"
+    },
+    {
+        "title":"MySQL",
+        "imageSrc":"skills/mySQL.png"
+    },
+    {
+        "title":"Git",
+        "imageSrc":"skills/git.png"
+    },
+    {
+        "title":"VS Code",
+        "imageSrc":"skills/vs code.png"
+    },
+    {
+        "title":"Pycharm",
+        "imageSrc":"skills/pycharm.png"
+    }
+]

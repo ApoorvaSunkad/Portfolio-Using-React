@@ -1,0 +1,14 @@
+/* Putting fonts and colors in one place so that we can use
+   them in all other files
+*/
+:root{
+    /* Colours */
+    --color-text:#fff;
+    --color-primary:#576cbc;
+    --color-secondary:#19376d;
+    --color-dark:#0b2447;
+    --color-bg:#04152b;
+
+    /* Fonts */
+    --font-roboto:"Roboto";
+}
